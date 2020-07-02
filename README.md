@@ -16,3 +16,9 @@ This is very new and the instructions below might not even work, the owner is tr
 (Unavailable)
 # Linux
 (Unavailable)
+# Programming languages
+This repositorie uses:
+Python,
+HTML
+The actual application uses:
+Python
