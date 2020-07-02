@@ -1,4 +1,6 @@
 # ExcelCompare
+# License
+This project does 𝐧𝐨𝐭 have a license, you may do anything with this, if you are gonna use this, please add credits.
 # Uses
 Made for work purposes.
 You can compare two excel sheets easily.
